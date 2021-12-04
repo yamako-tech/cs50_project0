@@ -15,7 +15,7 @@ Your website must meet the following requirements.
     * `Find pages with… “this exact word or phrase:”`
     * `Find pages with… “any of these words:”`
     * `Find pages with… “none of these words:”`
-Appearance. Like Google’s own Advanced Search page, the four options5.  should be stacked vertically, and all of the text fields should be left aligned.
-Consistent with Google’s own CSS, the “Advanced Search” button should be blue with white text. When the “Advanced Search” button is clicked, the user should be taken to search results page for their given query.
+5. Appearance. Like Google’s own Advanced Search page, the four options5.  should be stacked vertically, and all of the text fields should be left aligned.
+    * `Consistent with Google’s own CSS, the “Advanced Search” button should be blue with white text. When the “Advanced Search” button is clicked, the user should be taken to search results page for their given query.`
 6. Lucky. Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should take users directly to the first Google search result for the query, bypassing the normal results page.
 7. Aesthetics. The CSS you write should match Google’s own aesthetics as best as possible.
